@@ -8,7 +8,7 @@ A deep learning project that predicts loan repayment behavior based on LendingCl
 ## **Overview**  
 This project applies deep learning techniques to predict whether a borrower will repay their loan or default. Using a subset of the LendingClub dataset, the model leverages a fully connected neural network to analyze historical loan data and classify borrower behavior.  
 
----
+-----
 
 ## **Features**  
 - **Data Preprocessing**:  
